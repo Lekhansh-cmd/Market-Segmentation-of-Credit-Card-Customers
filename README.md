@@ -1,8 +1,6 @@
 # Market-Segmentation-of-Credit-Card-Customers
 
-# Market Segmentation Based On Clustering Analysis of Credit Card Customers
-
-## Submitted by: Lekhansh
+**Submitted by: Lekhansh**
 
 ### Objective
 The objective of this project is to perform market segmentation based on clustering analysis of credit card customers. The aim is to understand customer characteristics and behavior through customer segmentation, which can then be used for targeted marketing strategies.
